@@ -21,4 +21,7 @@
 
     <!-- Allow devices to hide ringer button above volume slider -->
     <bool name="config_hideRingerButton">false</bool>
+    
+    <!-- FPSInfoService FPS node file path -->
+    <string name="config_fpsInfoSysNode" translatable="false"></string>
 </resources>
